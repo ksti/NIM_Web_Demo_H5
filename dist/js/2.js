@@ -18,7 +18,7 @@ var Component = __webpack_require__(/*! ../../~/vue-loader/lib/component-normali
   /* cssModules */
   null
 )
-Component.options.__file = "D:\\Project\\javascript\\NIM_Web_Demo_H5\\src\\pages\\Room.vue"
+Component.options.__file = "F:\\data\\git\\GitHub\\NIM_Web_Demo_H5\\src\\pages\\Room.vue"
 if (Component.esModule && Object.keys(Component.esModule).some(function (key) {return key !== "default" && key !== "__esModule"})) {console.error("named exports are not supported in *.vue files.")}
 if (Component.options.functional) {console.error("[vue-loader] Room.vue: functional components are not supported with templates, they should use render functions.")}
 
@@ -1801,7 +1801,7 @@ module.exports={render:function (){var _vm=this;var _h=_vm.$createElement;var _c
       staticClass: "u-box",
       on: {
         "click": function($event) {
-          _vm.enterRoom(item.roomid)
+          return _vm.enterRoom(item.roomid)
         }
       }
     }, [_c('div', {
@@ -1816,7 +1816,7 @@ module.exports={render:function (){var _vm=this;var _h=_vm.$createElement;var _c
     }, [(item.status === 1) ? _c('strong', [_vm._v("正在直播")]) : _vm._e(), _vm._v(" "), _c('em', [_vm._v(_vm._s(item.onlineusercount) + " 人")])])]), _vm._v(" "), _c('p', {
       staticClass: "desc"
     }, [_vm._v(_vm._s(item.name))])])
-  }))])
+  }), 0)])
 },staticRenderFns: []}
 module.exports.render._withStripped = true
 if (false) {

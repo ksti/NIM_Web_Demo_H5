@@ -22,7 +22,7 @@ var Component = __webpack_require__(/*! ../../~/vue-loader/lib/component-normali
   /* cssModules */
   null
 )
-Component.options.__file = "D:\\Project\\javascript\\NIM_Web_Demo_H5\\src\\pages\\TeamMemberCard.vue"
+Component.options.__file = "F:\\data\\git\\GitHub\\NIM_Web_Demo_H5\\src\\pages\\TeamMemberCard.vue"
 if (Component.esModule && Object.keys(Component.esModule).some(function (key) {return key !== "default" && key !== "__esModule"})) {console.error("named exports are not supported in *.vue files.")}
 if (Component.options.functional) {console.error("[vue-loader] TeamMemberCard.vue: functional components are not supported with templates, they should use render functions.")}
 
@@ -57,7 +57,7 @@ module.exports = Component.exports
 
 exports.__esModule = true;
 
-var _assign = __webpack_require__(/*! babel-runtime/core-js/object/assign */ 8);
+var _assign = __webpack_require__(/*! babel-runtime/core-js/object/assign */ 9);
 
 var _assign2 = _interopRequireDefault(_assign);
 
@@ -256,7 +256,7 @@ exports = module.exports = __webpack_require__(/*! ../../~/css-loader/lib/css-ba
 
 
 // module
-exports.push([module.i, "\n.g-body[data-v-6b45b6ae]{\n}\n.g-avatar[data-v-6b45b6ae]{\n  margin: 2rem auto;\n  width: 100%;\n  text-align: center;\n}\n.u-btn[data-v-6b45b6ae]{\n  width: 80%;\n  margin: 1rem 10%;\n}\n", "", {"version":3,"sources":["D:/Project/javascript/NIM_Web_Demo_H5/src/pages/TeamMemberCard.vue"],"names":[],"mappings":";AA0LA;CAEC;AACD;EACE,kBAAkB;EAClB,YAAY;EACZ,mBAAmB;CACpB;AACD;EACE,WAAW;EACX,iBAAiB;CAClB","file":"TeamMemberCard.vue","sourcesContent":["\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n.g-body{\n  \n}\n.g-avatar{\n  margin: 2rem auto;\n  width: 100%;\n  text-align: center;\n}\n.u-btn{\n  width: 80%;\n  margin: 1rem 10%;\n}\n"],"sourceRoot":""}]);
+exports.push([module.i, "\n.g-body[data-v-6b45b6ae]{\n}\n.g-avatar[data-v-6b45b6ae]{\n  margin: 2rem auto;\n  width: 100%;\n  text-align: center;\n}\n.u-btn[data-v-6b45b6ae]{\n  width: 80%;\n  margin: 1rem 10%;\n}\n", "", {"version":3,"sources":["F:/data/git/GitHub/NIM_Web_Demo_H5/src/pages/TeamMemberCard.vue"],"names":[],"mappings":";AA0LA;CAEC;AACD;EACE,kBAAkB;EAClB,YAAY;EACZ,mBAAmB;CACpB;AACD;EACE,WAAW;EACX,iBAAiB;CAClB","file":"TeamMemberCard.vue","sourcesContent":["\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n.g-body{\n  \n}\n.g-avatar{\n  margin: 2rem auto;\n  width: 100%;\n  text-align: center;\n}\n.u-btn{\n  width: 80%;\n  margin: 1rem 10%;\n}\n"],"sourceRoot":""}]);
 
 // exports
 

@@ -18,7 +18,7 @@ var Component = __webpack_require__(/*! ../../~/vue-loader/lib/component-normali
   /* cssModules */
   null
 )
-Component.options.__file = "D:\\Project\\javascript\\NIM_Web_Demo_H5\\src\\pages\\SearchUser.vue"
+Component.options.__file = "F:\\data\\git\\GitHub\\NIM_Web_Demo_H5\\src\\pages\\SearchUser.vue"
 if (Component.esModule && Object.keys(Component.esModule).some(function (key) {return key !== "default" && key !== "__esModule"})) {console.error("named exports are not supported in *.vue files.")}
 if (Component.options.functional) {console.error("[vue-loader] SearchUser.vue: functional components are not supported with templates, they should use render functions.")}
 
@@ -257,7 +257,7 @@ module.exports={render:function (){var _vm=this;var _h=_vm.$createElement;var _c
         slot: "icon"
       })])
     })
-  })), _vm._v(" "), _c('div', {
+  }), 1), _vm._v(" "), _c('div', {
     staticClass: "u-card"
   }, [_c('h3', [_vm._v(_vm._s(_vm.errMsg))])])], 1)
 },staticRenderFns: []}

@@ -22,7 +22,7 @@ var Component = __webpack_require__(/*! ../../~/vue-loader/lib/component-normali
   /* cssModules */
   null
 )
-Component.options.__file = "D:\\Project\\javascript\\NIM_Web_Demo_H5\\src\\pages\\TeamMembers.vue"
+Component.options.__file = "F:\\data\\git\\GitHub\\NIM_Web_Demo_H5\\src\\pages\\TeamMembers.vue"
 if (Component.esModule && Object.keys(Component.esModule).some(function (key) {return key !== "default" && key !== "__esModule"})) {console.error("named exports are not supported in *.vue files.")}
 if (Component.options.functional) {console.error("[vue-loader] TeamMembers.vue: functional components are not supported with templates, they should use render functions.")}
 
@@ -57,7 +57,7 @@ module.exports = Component.exports
 
 exports.__esModule = true;
 
-var _assign = __webpack_require__(/*! babel-runtime/core-js/object/assign */ 8);
+var _assign = __webpack_require__(/*! babel-runtime/core-js/object/assign */ 9);
 
 var _assign2 = _interopRequireDefault(_assign);
 
@@ -230,7 +230,7 @@ exports = module.exports = __webpack_require__(/*! ../../../~/css-loader/lib/css
 
 
 // module
-exports.push([module.i, "\n.m-members[data-v-1cc8d8fe] {\r\n  display: -webkit-box;\r\n  display: -webkit-flex;\r\n  display: -moz-box;\r\n  display: -ms-flexbox;\r\n  display: flex;\r\n  -webkit-flex-wrap: wrap;\r\n      -ms-flex-wrap: wrap;\r\n          flex-wrap: wrap;\r\n  margin: 0 auto;\r\n  text-align: center;\r\n  width: 100%;\n}\n.m-members img.avatar[data-v-1cc8d8fe]{\r\n  width: 3.8rem;\r\n  height: 3.8rem;\r\n  -webkit-box-flex: 0;\r\n  -webkit-flex: 0 1 auto;\r\n     -moz-box-flex: 0;\r\n      -ms-flex: 0 1 auto;\r\n          flex: 0 1 auto;\n}\n.m-members .u-member[data-v-1cc8d8fe] {\r\n  display: -webkit-box;\r\n  display: -webkit-flex;\r\n  display: -moz-box;\r\n  display: -ms-flexbox;\r\n  display: flex;\r\n  position: relative;\r\n  -webkit-box-orient: vertical;\r\n  -webkit-box-direction: normal;\r\n  -webkit-flex-direction: column;\r\n     -moz-box-orient: vertical;\r\n     -moz-box-direction: normal;\r\n      -ms-flex-direction: column;\r\n          flex-direction: column;\r\n  -webkit-box-align: center;\r\n  -webkit-align-items: center;\r\n     -moz-box-align: center;\r\n      -ms-flex-align: center;\r\n          align-items: center;\r\n  width: 25%;\r\n  margin: .5rem 0;\n}\n.m-members .u-member .remove[data-v-1cc8d8fe], .m-members .u-member .manager[data-v-1cc8d8fe], .m-members .u-member .owner[data-v-1cc8d8fe]{\r\n  display: inline-block;\r\n  position: absolute;\r\n  bottom: 1.1rem;\r\n  right: 0;\r\n  width: 2rem;\r\n  height: 2rem;\r\n  background: url(http://yx-web.nos.netease.com/webdoc/h5/im/icons.png);\r\n  background-position: -10.3rem 0;\r\n  background-size: 20rem\n}\n.m-members .u-member .owner[data-v-1cc8d8fe] {\r\n  background-position: -10.3rem -2.7rem;\n}\n.m-members .u-member .remove[data-v-1cc8d8fe] {\r\n  top: 0;\r\n  bottom: auto;\r\n  right: 0;\r\n  width: 2.4rem;\r\n  height: 2.4rem;\r\n  background-position: -10.1rem -5.1rem;\n}\n.m-members .u-member span[data-v-1cc8d8fe] {\r\n  max-width: 100%;\r\n  overflow: hidden;\r\n  text-overflow: ellipsis;\r\n  white-space: nowrap;\n}\n.m-members.s-bg-white[data-v-1cc8d8fe] {\r\n  background-color: white;\n}\r\n\r\n", "", {"version":3,"sources":["D:/Project/javascript/NIM_Web_Demo_H5/src/pages/components/TeamMember.vue"],"names":[],"mappings":";AAwKA;EACE,qBAAc;EAAd,sBAAc;EAAd,kBAAc;EAAd,qBAAc;EAAd,cAAc;EACd,wBAAgB;MAAhB,oBAAgB;UAAhB,gBAAgB;EAChB,eAAe;EACf,mBAAmB;EACnB,YAAY;CAmDb;AAjDC;EACE,cAAc;EACd,eAAe;EACf,oBAAe;EAAf,uBAAe;KAAf,iBAAe;MAAf,mBAAe;UAAf,eAAe;CAChB;AAED;EACE,qBAAc;EAAd,sBAAc;EAAd,kBAAc;EAAd,qBAAc;EAAd,cAAc;EACd,mBAAmB;EACnB,6BAAuB;EAAvB,8BAAuB;EAAvB,+BAAuB;KAAvB,0BAAuB;KAAvB,2BAAuB;MAAvB,2BAAuB;UAAvB,uBAAuB;EACvB,0BAAoB;EAApB,4BAAoB;KAApB,uBAAoB;MAApB,uBAAoB;UAApB,oBAAoB;EACpB,WAAW;EACX,gBAAgB;CAgCjB;AA9BC;EACE,sBAAsB;EACtB,mBAAmB;EACnB,eAAe;EACf,SAAS;EACT,YAAY;EACZ,aAAa;EACb,sEAAsE;EACtE,gCAAgC;EAChC,sBAAsB;CACvB;AACD;EACE,sCAAsC;CACvC;AAED;EACE,OAAO;EACP,aAAa;EACb,SAAS;EACT,cAAc;EACd,eAAe;EACf,sCAAsC;CACvC;AAED;EACE,gBAAgB;EAChB,iBAAiB;EACjB,wBAAwB;EACxB,oBAAoB;CACrB;AAGH;EACE,wBAAwB;CACzB","file":"TeamMember.vue","sourcesContent":["\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\r\n\r\n.m-members {\r\n  display: flex;\r\n  flex-wrap: wrap;\r\n  margin: 0 auto;\r\n  text-align: center;\r\n  width: 100%;\r\n\r\n  img.avatar{\r\n    width: 3.8rem;\r\n    height: 3.8rem;\r\n    flex: 0 1 auto;\r\n  }\r\n\r\n  .u-member {\r\n    display: flex;\r\n    position: relative;\r\n    flex-direction: column;\r\n    align-items: center;\r\n    width: 25%;\r\n    margin: .5rem 0;\r\n\r\n    .remove, .manager, .owner{\r\n      display: inline-block;\r\n      position: absolute;\r\n      bottom: 1.1rem;\r\n      right: 0;\r\n      width: 2rem;\r\n      height: 2rem;\r\n      background: url(http://yx-web.nos.netease.com/webdoc/h5/im/icons.png);\r\n      background-position: -10.3rem 0;\r\n      background-size: 20rem\r\n    }\r\n    .owner {\r\n      background-position: -10.3rem -2.7rem;\r\n    }\r\n\r\n    .remove {\r\n      top: 0;\r\n      bottom: auto;\r\n      right: 0;\r\n      width: 2.4rem;\r\n      height: 2.4rem;\r\n      background-position: -10.1rem -5.1rem;\r\n    }\r\n\r\n    span {\r\n      max-width: 100%;\r\n      overflow: hidden;\r\n      text-overflow: ellipsis;\r\n      white-space: nowrap;\r\n    }\r\n  }\r\n\r\n  &.s-bg-white{\r\n    background-color: white;\r\n  }\r\n}\r\n\r\n"],"sourceRoot":""}]);
+exports.push([module.i, "\n.m-members[data-v-1cc8d8fe] {\r\n  display: -webkit-box;\r\n  display: -webkit-flex;\r\n  display: -moz-box;\r\n  display: -ms-flexbox;\r\n  display: flex;\r\n  -webkit-flex-wrap: wrap;\r\n      -ms-flex-wrap: wrap;\r\n          flex-wrap: wrap;\r\n  margin: 0 auto;\r\n  text-align: center;\r\n  width: 100%;\n}\n.m-members img.avatar[data-v-1cc8d8fe]{\r\n  width: 3.8rem;\r\n  height: 3.8rem;\r\n  -webkit-box-flex: 0;\r\n  -webkit-flex: 0 1 auto;\r\n     -moz-box-flex: 0;\r\n      -ms-flex: 0 1 auto;\r\n          flex: 0 1 auto;\n}\n.m-members .u-member[data-v-1cc8d8fe] {\r\n  display: -webkit-box;\r\n  display: -webkit-flex;\r\n  display: -moz-box;\r\n  display: -ms-flexbox;\r\n  display: flex;\r\n  position: relative;\r\n  -webkit-box-orient: vertical;\r\n  -webkit-box-direction: normal;\r\n  -webkit-flex-direction: column;\r\n     -moz-box-orient: vertical;\r\n     -moz-box-direction: normal;\r\n      -ms-flex-direction: column;\r\n          flex-direction: column;\r\n  -webkit-box-align: center;\r\n  -webkit-align-items: center;\r\n     -moz-box-align: center;\r\n      -ms-flex-align: center;\r\n          align-items: center;\r\n  width: 25%;\r\n  margin: .5rem 0;\n}\n.m-members .u-member .remove[data-v-1cc8d8fe], .m-members .u-member .manager[data-v-1cc8d8fe], .m-members .u-member .owner[data-v-1cc8d8fe]{\r\n  display: inline-block;\r\n  position: absolute;\r\n  bottom: 1.1rem;\r\n  right: 0;\r\n  width: 2rem;\r\n  height: 2rem;\r\n  background: url(http://yx-web.nos.netease.com/webdoc/h5/im/icons.png);\r\n  background-position: -10.3rem 0;\r\n  background-size: 20rem\n}\n.m-members .u-member .owner[data-v-1cc8d8fe] {\r\n  background-position: -10.3rem -2.7rem;\n}\n.m-members .u-member .remove[data-v-1cc8d8fe] {\r\n  top: 0;\r\n  bottom: auto;\r\n  right: 0;\r\n  width: 2.4rem;\r\n  height: 2.4rem;\r\n  background-position: -10.1rem -5.1rem;\n}\n.m-members .u-member span[data-v-1cc8d8fe] {\r\n  max-width: 100%;\r\n  overflow: hidden;\r\n  text-overflow: ellipsis;\r\n  white-space: nowrap;\n}\n.m-members.s-bg-white[data-v-1cc8d8fe] {\r\n  background-color: white;\n}\r\n\r\n", "", {"version":3,"sources":["F:/data/git/GitHub/NIM_Web_Demo_H5/src/pages/components/TeamMember.vue"],"names":[],"mappings":";AAwKA;EACE,qBAAc;EAAd,sBAAc;EAAd,kBAAc;EAAd,qBAAc;EAAd,cAAc;EACd,wBAAgB;MAAhB,oBAAgB;UAAhB,gBAAgB;EAChB,eAAe;EACf,mBAAmB;EACnB,YAAY;CAmDb;AAjDC;EACE,cAAc;EACd,eAAe;EACf,oBAAe;EAAf,uBAAe;KAAf,iBAAe;MAAf,mBAAe;UAAf,eAAe;CAChB;AAED;EACE,qBAAc;EAAd,sBAAc;EAAd,kBAAc;EAAd,qBAAc;EAAd,cAAc;EACd,mBAAmB;EACnB,6BAAuB;EAAvB,8BAAuB;EAAvB,+BAAuB;KAAvB,0BAAuB;KAAvB,2BAAuB;MAAvB,2BAAuB;UAAvB,uBAAuB;EACvB,0BAAoB;EAApB,4BAAoB;KAApB,uBAAoB;MAApB,uBAAoB;UAApB,oBAAoB;EACpB,WAAW;EACX,gBAAgB;CAgCjB;AA9BC;EACE,sBAAsB;EACtB,mBAAmB;EACnB,eAAe;EACf,SAAS;EACT,YAAY;EACZ,aAAa;EACb,sEAAsE;EACtE,gCAAgC;EAChC,sBAAsB;CACvB;AACD;EACE,sCAAsC;CACvC;AAED;EACE,OAAO;EACP,aAAa;EACb,SAAS;EACT,cAAc;EACd,eAAe;EACf,sCAAsC;CACvC;AAED;EACE,gBAAgB;EAChB,iBAAiB;EACjB,wBAAwB;EACxB,oBAAoB;CACrB;AAGH;EACE,wBAAwB;CACzB","file":"TeamMember.vue","sourcesContent":["\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\r\n\r\n.m-members {\r\n  display: flex;\r\n  flex-wrap: wrap;\r\n  margin: 0 auto;\r\n  text-align: center;\r\n  width: 100%;\r\n\r\n  img.avatar{\r\n    width: 3.8rem;\r\n    height: 3.8rem;\r\n    flex: 0 1 auto;\r\n  }\r\n\r\n  .u-member {\r\n    display: flex;\r\n    position: relative;\r\n    flex-direction: column;\r\n    align-items: center;\r\n    width: 25%;\r\n    margin: .5rem 0;\r\n\r\n    .remove, .manager, .owner{\r\n      display: inline-block;\r\n      position: absolute;\r\n      bottom: 1.1rem;\r\n      right: 0;\r\n      width: 2rem;\r\n      height: 2rem;\r\n      background: url(http://yx-web.nos.netease.com/webdoc/h5/im/icons.png);\r\n      background-position: -10.3rem 0;\r\n      background-size: 20rem\r\n    }\r\n    .owner {\r\n      background-position: -10.3rem -2.7rem;\r\n    }\r\n\r\n    .remove {\r\n      top: 0;\r\n      bottom: auto;\r\n      right: 0;\r\n      width: 2.4rem;\r\n      height: 2.4rem;\r\n      background-position: -10.1rem -5.1rem;\r\n    }\r\n\r\n    span {\r\n      max-width: 100%;\r\n      overflow: hidden;\r\n      text-overflow: ellipsis;\r\n      white-space: nowrap;\r\n    }\r\n  }\r\n\r\n  &.s-bg-white{\r\n    background-color: white;\r\n  }\r\n}\r\n\r\n"],"sourceRoot":""}]);
 
 // exports
 
@@ -268,7 +268,7 @@ module.exports={render:function (){var _vm=this;var _h=_vm.$createElement;var _c
       staticClass: "u-member",
       on: {
         "click": function($event) {
-          _vm.onMemberClick(member)
+          return _vm.onMemberClick(member)
         }
       }
     }, [_c('img', {
@@ -280,7 +280,7 @@ module.exports={render:function (){var _vm=this;var _h=_vm.$createElement;var _c
       staticClass: "remove",
       on: {
         "click": function($event) {
-          _vm.remove($event, member)
+          return _vm.remove($event, member)
         }
       }
     }) : _vm._e(), _vm._v(" "), (member.type !== "normal") ? _c('span', {
@@ -301,7 +301,7 @@ module.exports={render:function (){var _vm=this;var _h=_vm.$createElement;var _c
     staticClass: "u-member",
     on: {
       "click": function($event) {
-        _vm.triggerRemove()
+        return _vm.triggerRemove()
       }
     }
   }, [_c('img', {
@@ -376,7 +376,7 @@ var Component = __webpack_require__(/*! ../../../~/vue-loader/lib/component-norm
   /* cssModules */
   null
 )
-Component.options.__file = "D:\\Project\\javascript\\NIM_Web_Demo_H5\\src\\pages\\components\\TeamMember.vue"
+Component.options.__file = "F:\\data\\git\\GitHub\\NIM_Web_Demo_H5\\src\\pages\\components\\TeamMember.vue"
 if (Component.esModule && Object.keys(Component.esModule).some(function (key) {return key !== "default" && key !== "__esModule"})) {console.error("named exports are not supported in *.vue files.")}
 if (Component.options.functional) {console.error("[vue-loader] TeamMember.vue: functional components are not supported with templates, they should use render functions.")}
 
@@ -448,7 +448,7 @@ exports = module.exports = __webpack_require__(/*! ../../~/css-loader/lib/css-ba
 
 
 // module
-exports.push([module.i, "\n.p-members[data-v-62350b6c]{\n  background-color: #e6ebf0;\n}\n", "", {"version":3,"sources":["D:/Project/javascript/NIM_Web_Demo_H5/src/pages/TeamMembers.vue"],"names":[],"mappings":";AA2BA;EACE,0BAA0B;CAC3B","file":"TeamMembers.vue","sourcesContent":["\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n.p-members{\n  background-color: #e6ebf0;\n}\n"],"sourceRoot":""}]);
+exports.push([module.i, "\n.p-members[data-v-62350b6c]{\n  background-color: #e6ebf0;\n}\n", "", {"version":3,"sources":["F:/data/git/GitHub/NIM_Web_Demo_H5/src/pages/TeamMembers.vue"],"names":[],"mappings":";AA2BA;EACE,0BAA0B;CAC3B","file":"TeamMembers.vue","sourcesContent":["\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n.p-members{\n  background-color: #e6ebf0;\n}\n"],"sourceRoot":""}]);
 
 // exports
 
